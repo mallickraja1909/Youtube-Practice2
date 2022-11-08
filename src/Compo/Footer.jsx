@@ -37,7 +37,7 @@ const Footer = () => {
        borderRight={['none','1px solid White']}
        >
        <Heading textTransform={'uppercase'} textAlign={['center','left']}>
-         VIDEO HUB
+         VIDO HOUSE
        </Heading>
        <Text>
         All rights reserved
