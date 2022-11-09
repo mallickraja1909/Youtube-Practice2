@@ -47,10 +47,10 @@ const Footer = () => {
        <VStack w={'full'}>
         <Heading size={'md'} textTransform={'uppercase'}>
            Social Media
-        </Heading>
-        <Button variant={'link'} colorScheme={'white'}>
-            <a target={'blank'} href='https://github.com/mallickraja1909'>GitHub</a>
-        </Button>
+//         </Heading>
+//         <Button variant={'link'} colorScheme={'white'}>
+//             <a target={'blank'} href='https://github.com/mallickraja1909'>GitHub</a>
+//         </Button>
         <Button variant={'link'} colorScheme={'white'}>
             <a target={'blank'} href='https://www.linkedin.com/in/raja-mallick-2b62a0131'>Linkedin</a>
         </Button>
